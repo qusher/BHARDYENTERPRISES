@@ -183,6 +183,13 @@ blockquote {
   }
 }
 
+@media (max-width: 800px) {
+  #infinite {
+   background-image: url(../img/infinite-loop-02-mobile.jpg);
+   background-size: cover;
+  }
+}
+
 .tm-hero-text-container {
   width: 100%;
   height: 100%;
