@@ -151,6 +151,7 @@ blockquote {
   height: 130vh;
   min-height: 375px;
   position: relative;
+  background-size: contain;
 }
 
 .tm-hero-text-container {
