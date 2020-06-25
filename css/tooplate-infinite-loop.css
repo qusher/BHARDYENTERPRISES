@@ -157,7 +157,7 @@ blockquote {
 
 @media (min-height: 600px) and (min-width: 1920px) {
   #infinite {
-    background-size:contain;
+    background-size:2000px 1500px;
   }
 }
 
