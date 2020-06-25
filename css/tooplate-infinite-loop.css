@@ -518,7 +518,7 @@ figure.effect-honey:hover h2 i {
   background-color: #001828;
   background-image: url(../img/infinite-loop-03.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
+  background-position:center;
   min-height: 980px;
   position: relative;
   padding-bottom: 50px;
