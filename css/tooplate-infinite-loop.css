@@ -147,17 +147,18 @@ blockquote {
 /* Hero */
 
 #infinite {
-	background-color: 080808;
-  background-image: url(../img/infinite-loop-01.jpg);
-  background-repeat: no-repeat;
+  background-color: #080808;
+  background-image: url(../img/infinite-loop-01.jpg), url(../img/the-town-bg-02.jpg);
+  background-repeat: no-repeat, repeat;
   height: 130vh;
   min-height: 375px;
   position: relative;
 }
 
-@media (min-height: 600px) and (min-width: 1920px) {
+@media (min-height: 2000px) and (min-width: 2000px) {
   #infinite {
-    background-size:2000px 1500px;
+    height: auto;
+    width: 100%;
   }
 }
 
